@@ -1,7 +1,7 @@
 # 🧬 quantum-microtubule-dna-symphony
 > "The body is not a machine; it is a song. We aren't just fixing the parts; we are learning to play in tune again."
 ## Abstract
-This notebook-style repository synthesizes ideas on how piezoelectric microtubule lattices, vibrational quanta (phonons), and nuclear chromatin to influence gene expression and conscious experience. Core motifs include aromatic ring coherence (phenol/tyrosine delocalization, tropylium-like stability), stroboscopic 9+2-like helical non-Euclidean geometry, LINC-mediated force transmission reframed as quantized vibrations, and "string theory"-inspired DNA symphony.
+This notebook-style repository synthesizes ideas on how piezoelectric microtubule lattices, vibrational quanta (phonons), and nuclear chromatin to influence gene expression and conscious experience. Core motifs include aromatic ring coherence (phenol/tyrosine delocalization, tropylium-like stability), stroboscopic centriole-like 9+2 helical non-Euclidean geometry, LINC-mediated force transmission reframed as quantized vibrations, and "string theory"-inspired DNA symphony. The LINC complex serves as a mechanical bridge where cytosolic force is converted into chromatin reorganization via mechanotransduction pathways.
 
 ## Key Integrative Elements
 - **Microtubule-DNA mechanical link**: LINC complex transmits forces that become phonon waves in the tubulin lattice; these can modulate chromatin accessibility and epigenetic states.

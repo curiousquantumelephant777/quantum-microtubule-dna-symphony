@@ -24,5 +24,9 @@ Where $n$ is a non-negative integer ($n = 0, 1, 2, \dots$).
 
 When the **Iboga chair conformation** aligns with these $\pi$-electron clouds, it doesn't just "bind"—it **synchronizes**. It transitions the cellular "noise" into a **Laminar Flow** of information, effectively tuning the biological circuit to a state of resonant coherence.
 
+## 💫 Future Computational Aims
+
+* Develop a Python script using NumPy to model the resonance frequencies of a tubulin lattice under varying pH conditions.
+
 ---
 **Peace, love, and science.**

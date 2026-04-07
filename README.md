@@ -3,6 +3,8 @@
 ## Abstract
 This notebook-style repository synthesizes ideas on how piezoelectric microtubule lattices, vibrational quanta (phonons), and nuclear chromatin to influence gene expression and conscious experience. Core motifs include aromatic ring coherence (phenol/tyrosine delocalization, tropylium-like stability), stroboscopic centriole-like 9+2 helical non-Euclidean geometry, LINC-mediated force transmission reframed as quantized vibrations, and "string theory"-inspired DNA symphony. The LINC complex serves as a mechanical bridge where cytosolic force is converted into chromatin reorganization via mechanotransduction pathways.
 
+Using the Incilius alvarius (5-MeO-DMT) model (high bufotenine has been observed in ASD phenotypes), it is hypothesized that ASD phenotypes arise from a state of high signal and low integration. Non-coding Z-DNA regions act as high-gain resonators. In the absence of sufficient GDNF-mediated synaptogenesis (e.g., in ASD), this leads to an overwhelming high-intensity informational “wash” that disrupts the integration of social-reward stimuli.
+
 ## Key Integrative Elements
 - **Microtubule-DNA mechanical link**: LINC complex transmits forces that become phonon waves in the tubulin lattice; these can modulate chromatin accessibility and epigenetic states.
 - **Exploring non-classical signaling pathways in cytoskeletal dynamics**: The microtubule lattice facilitates energy transfer via delocalized $\pi$-electrons. These electronic clouds act as the 'conductive fluid' for the bio-piezoelectric circuit, allowing the system to maintain quantum coherence even at biological temperatures.
@@ -27,6 +29,8 @@ When the **Iboga chair conformation** aligns with these $\pi$-electron clouds, i
 ## 💫 Future Computational Aims
 
 * Develop a Python script using NumPy to model the resonance frequencies of a tubulin lattice under varying pH conditions.
+* Develop a Python script to model how DNA topological transitions (B- to Z-flips) act as a periodic pump to reset and maintain quantum coherence in microtubule oscillations against environmental decoherence. (in progress)
+* Analyze the *Incilius alvarius* genome's noncoding regions and compare it to those in ASD (specifically interested in seeing how CpG islands may be preserved from the toad genome in ASD phenotypes).
 
 ---
 **Peace, love, and science.**

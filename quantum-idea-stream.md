@@ -1,0 +1,17 @@
+# ✨ Ideas
+- UPE: The ultra-weak nature of biophotons may be analogous to the ultra-cool temperatures needed for quantum effects to occur in quantum computing in a "warm, wet" world
+- Biophotons may be focused through DNA (either originating in DNA or coming from mitochondria), an organized recursive negatively-charged lattice and into microtubules by the LINC complex, driving rapid and synchronized cell division (inspired by reading about the Orch-OR theory)
+- If ultra-weak biophotons do allow quantum effects to persist in 'warm, wet' systems, could a similar mechanism be used in quantum computing?
+- Curious about how biophotons interact with phosphenes to create vision and dreams
+- Microtubules contain phenyl and tryptophan residues, and in Orch-OR they are proposed to be the orchestrators of quantum consciousness, could aromatic trace amines act as 'tuning keys' for the microtubules (inducing a phononic or biophotonic diffraction brief interference pattern or long-term eigenstate)
+- Could these phononic helical eigenstates of the microtubules power the more linear cascades of energy transfer in cells?
+- Children, neurodivergent individuals, acute psychedelic experiences are thought to induce these phononic/biophotonic eigenstates
+- Hemoglobin is very similar to chlorophyll and areas of proposed topological insulation of quantum biological states include capillary beds, nephrons, and cerebellum
+- We should examine microtubule dynamics in cells where the LINC complex is stressed vs unstressed
+- Disease, cancer could be theoretically seen as a bioelectric/phononic disturbance which leads to aberrant cell division patterns and other metabolic phenomena
+- Trace amines may act as a biopiezoelectric field, shielding surrounding cells from energetic regression or collapse, children have high levels of trace amines naturally
+- Thyroid rfa is a treatment that alters the local field by introducing radiofrequency waves to alter tissue dynamics, could phononic treatments work in a similar way?
+- Biophotons and phononic ripples may interact with EZ (exclusion zone) water to propagate this bioelectric current
+- Phononic eigenstates may synchronize the GTP hydrolysis within microtubules, controlling metabolism
+- These localized phononic-bioelectric fields are thought to couple with the recursive capillary network, which acts as a macroscopic dielectric resonator to distribute phase across organs
+- 

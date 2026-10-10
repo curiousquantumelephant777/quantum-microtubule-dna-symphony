@@ -1,4 +1,6 @@
 # ✨ Ideas
+Disclaimer: These are highly speculative ideas to be discussed in a future quantum biology club which I'm interested in creating in grad school, or with specialized biophysics groups. Other areas of this repository focus more on concrete analysis of microtubules and the LINC complex (e.g., proteonomics and genomic hypotheses).
+
 - UPE: The ultra-weak nature of biophotons may be analogous to the ultra-cool temperatures needed for quantum effects to occur in quantum computing in a "warm, wet" world
 - Biophotons may be focused through DNA (either originating in DNA or coming from mitochondria), an organized recursive negatively-charged lattice and into microtubules by the LINC complex, driving rapid and synchronized cell division (inspired by reading about the Orch-OR theory)
 - If ultra-weak biophotons do allow quantum effects to persist in 'warm, wet' systems, could a similar mechanism be used in quantum computing?
@@ -18,3 +20,4 @@
   - Psychedelics (indoleamines, phenethylamines) are thought to amplify the superradiance exponentially, as well as critical periods (e.g., the critical period between ages 13-14 with open prosocial behavior mimics the acute effects of the substituted flat planar aromatic core substituted phenethylamines via this mechanism), childhood and after long-distance running are also thought to induce this state
   - Speculative: These states seem to correlate with a brighter iris (need to explore connection between microtubules and rods and cones more)
  - Exogenous or endogenous phenethylamines present flat, rigid aromatic systems. When introduced to this framework, they could theoretically act as "doping agents" in a crystal lattice. By nesting directly into the hydrophobic, aromatic pockets of structural networks, they lower the energy threshold required for the system to achieve collective electronic resonance or superradiance. Conversely, molecules with puckered non-aromatic cyclic systems (e.g., Zyprexa/olanzapine) act as quantum dampeners (hypothesized to undergo destructive phononic interference and increase the energy required to reach collective electronic resonance within the microtubules
+ - 
